@@ -27,6 +27,3 @@ sudo apt install nginx -y
 # Allow nginx through your firewall, if enabled
 sudo ufw allow 'Nginx HTTP'
 sudo ufw allow 'Nginx HTTPS'
-
-# Install certbox for letsencrypt certificate setup
-sudo apt install certbot python3-certbot-nginx -y
