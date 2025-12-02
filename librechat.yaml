@@ -98,4 +98,4 @@ endpoints:
       serverless: true
       models:
         # Must match the deployment name of the model
-        grok-3-mini: true
+        gpt-4: true
